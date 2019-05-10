@@ -3,20 +3,15 @@
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/AndCheck/SurroundedRegions.java" line="19" />
     <bookmark url="file://$PROJECT_DIR$/src/DynamicPrograming/HouseRobber198.java" line="6" />
-    <bookmark url="file://$PROJECT_DIR$/src/Test/test.java" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/src/Test/test.java" line="23" />
     <bookmark url="file://$PROJECT_DIR$/src/Array/ProductofArrayExceptSelf238.java" line="15" />
     <bookmark url="file://$PROJECT_DIR$/src/Bishi/Cell.java" line="31" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17f38e65-35f3-418a-b8e7-910d974b8198" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bishi/YueSheFu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicPrograming/PalindromicSubstrings647.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy/AdvantageShuffle870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashTable/SubarraySumEqualsK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/MergeTwoBinaryTrees617.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetcode/Test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Test/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bishi/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bishi/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,57 +29,47 @@
     <session id="1480942610">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="100" />
+          <entry key="java" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="100" />
+          <entry key="JAVA" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="21370" />
+          <entry key="java" value="21463" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21370" />
+          <entry key="JAVA" value="21463" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashTable/TopKFrequentElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tree/TaskScheduler621.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,17 +112,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HashTable/SubarraySumEqualsK.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DynamicPrograming/PalindromicSubstrings647.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="491">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -146,19 +131,25 @@
         <entry file="file://$PROJECT_DIR$/src/Bishi/YueSheFu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bishi/Cell.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="25" selection-start-line="4" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -166,8 +157,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Greedy/AdvantageShuffle870.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="775">
+              <caret line="32" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -226,7 +217,6 @@
         <option value="$PROJECT_DIR$/src/Array/FindAllNumbersDisappearedinanArray448.java" />
         <option value="$PROJECT_DIR$/src/Greedy/QueueReconstructionbyHeight406.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/HammingDistance416.java" />
-        <option value="$PROJECT_DIR$/src/Test/test.java" />
         <option value="$PROJECT_DIR$/src/Tree/判断是否为完全二叉树.java" />
         <option value="$PROJECT_DIR$/src/Breadth-firstSearch/CountingBits338.java" />
         <option value="$PROJECT_DIR$/src/DepthfirstSearch/DecodeString394.java" />
@@ -241,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/Bishi/YueSheFu.java" />
         <option value="$PROJECT_DIR$/src/Greedy/AdvantageShuffle870.java" />
         <option value="$PROJECT_DIR$/src/Bishi/Cell.java" />
+        <option value="$PROJECT_DIR$/src/Test/test.java" />
       </list>
     </option>
   </component>
@@ -267,7 +258,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,20 +273,40 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/IDEA-Projects/leetcode/src/DynamicPrograming/HouseRobber198.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539339600549" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543561582154" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../compressionOfHW-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -313,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cell">
+  <component name="RunManager" selected="Application.test">
     <configuration name="Cell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bishi.Cell" />
       <module name="leetcode" />
@@ -340,12 +353,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueBinarySearchTreesTWO95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.UniqueBinarySearchTreesTWO95" />
+    <configuration name="YueSheFu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bishi.YueSheFu" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree.*" />
+          <option name="PATTERN" value="Bishi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,12 +366,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YueSheFu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bishi.YueSheFu" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.test" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bishi.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,19 +397,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UniqueBinarySearchTreesTWO95" />
       <item itemvalue="Cucumber java.All Features in: Tree" />
       <item itemvalue="Application.Cell" />
       <item itemvalue="Application.PalindromicSubstrings647" />
       <item itemvalue="Application.YueSheFu" />
+      <item itemvalue="Application.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.Cell" />
         <item itemvalue="Application.YueSheFu" />
         <item itemvalue="Application.PalindromicSubstrings647" />
         <item itemvalue="Cucumber java.All Features in: Tree" />
-        <item itemvalue="Application.UniqueBinarySearchTreesTWO95" />
       </list>
     </recent_temporary>
   </component>
@@ -427,6 +440,10 @@
       <workItem from="1539065430124" duration="24115000" />
       <workItem from="1539219229006" duration="7394000" />
       <workItem from="1539308700645" duration="5563000" />
+      <workItem from="1539568605827" duration="1919000" />
+      <workItem from="1539773403743" duration="1808000" />
+      <workItem from="1540279646908" duration="5419000" />
+      <workItem from="1543320884046" duration="3691000" />
     </task>
     <servers />
   </component>
@@ -436,13 +453,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170133000" />
+    <option name="totallyTimeSpent" value="182970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22043702" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23136246" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -664,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="9" column="29" lean-forward="true" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tree/ConvertBSTToGreaterTree538.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -717,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,42 +762,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HashTable/SubarraySumEqualsK.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicPrograming/PalindromicSubstrings647.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bishi/YueSheFu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Greedy/AdvantageShuffle870.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Bishi/Cell.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="125">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Greedy/AdvantageShuffle870.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="32" column="5" selection-start-line="6" selection-start-column="3" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="25" selection-start-line="4" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicPrograming/PalindromicSubstrings647.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
